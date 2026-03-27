@@ -1,0 +1,20 @@
+# Arquivos compilados e executáveis
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.a
+
+# Pastas de saída (Onde ficam os executáveis que você compilou)
+output/
+build/
+bin/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
