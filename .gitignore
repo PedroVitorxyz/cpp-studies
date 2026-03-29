@@ -18,3 +18,18 @@ bin/
 # Arquivos temporários do Windows
 Thumbs.db
 Desktop.ini
+
+# Executáveis binários (sem extensão no Mac/Linux)
+main
+programa
+a.out
+
+# Pastas de depuração do macOS
+*.dSYM/
+
+# Arquivos de configuração do VS Code (opcional, mas recomendado)
+.vscode/
+
+# Ignorar tudo que for gerado automaticamente
+build/
+.DS_Store
